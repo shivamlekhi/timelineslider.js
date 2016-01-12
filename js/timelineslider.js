@@ -1,10 +1,14 @@
-/**
+/* ========================================================================
+ * Timelineslider: timelineslider.js v1.0
+ * https://github.com/shivamlekhi/timelineslider.js
+ * ========================================================================
+ * Licensed under MIT (http://opensource.org/licenses/mit-license.php)
+ * ======================================================================== 
  * The Slider Position works based comparing the position of the page
  * to the position of the slider and then comparing that position to
  * the placement of labels on the page
  * WORK IN PROGRESS
  */
-
  (function($) {
 
  	$.fn.timelineSlider = function(options) {
