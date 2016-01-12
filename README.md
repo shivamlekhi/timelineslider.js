@@ -63,4 +63,5 @@ $(document).ready(function () {
 
 #FAQ
 What the License? [MIT](https://en.wikipedia.org/wiki/MIT_License)
+
 Who's the Developer? [Shivam Lekhi](https://www.google.com/search?q=Shivam+Lekhi)
