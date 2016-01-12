@@ -2,14 +2,6 @@
 Timeline Slider is a JQuery Plugin for creating beautiful Sliders based on years. 
 <img src="http://i.imgur.com/AhpXPeV.gif" width="100%">
 
-##Installing The Package
-Method 1: Download ZIP and Extract in your project 
-
-Method 2: Install Using Bower
-```shell
-bower install timelineslider
-```
-
 ##Including Files
 ```html
 <!-- CSS Style -->
