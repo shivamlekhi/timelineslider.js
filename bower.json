@@ -5,7 +5,7 @@
     "Shivam Lekhi <lekhishivam@gmail.com>"
   ],
   "description": "Timeline Slider is a JQuery Plugin for creating beautiful Sliders based on years.",
-  "main": "",
+  "main": ["js/timelineslider.js", "css/timelineslider.css"],
   "moduleType": [],
   "keywords": [
     "timelineslider",
